@@ -1,4 +1,4 @@
-### sohee park
+### ~ 리꾸 예정즁 ~
 
 <!--
 **Sohee-Elizabeth-park/Sohee-Elizabeth-park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

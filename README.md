@@ -1,6 +1,6 @@
 ### ~ 리꾸 예정즁 ~
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko)
+![Sohee-Elizabeth-park's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sohee-Elizabeth-park&show_icons=true&theme=tokyonight)
 
 <!--
 **Sohee-Elizabeth-park/Sohee-Elizabeth-park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

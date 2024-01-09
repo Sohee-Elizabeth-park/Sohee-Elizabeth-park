@@ -1,4 +1,6 @@
 ### ~ 리꾸 예정즁 ~
+<img width="878" alt="image" src="https://github.com/Sohee-Elizabeth-park/Sohee-Elizabeth-park/assets/144773013/f8837f07-71c9-43f7-bc64-5a70cd0e1fc9">
+
 
 ![Sohee-Elizabeth-park's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sohee-Elizabeth-park&include_all_commits=true&show_icons=true&theme=radical)
 

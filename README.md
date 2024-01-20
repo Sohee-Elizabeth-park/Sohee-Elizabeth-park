@@ -7,7 +7,6 @@
 Java 11 / Spring 5.0.7
 Python 3.9.7
 Oracle 11g / MySQL 8.0.23
-HTML5 / CSS3 / JSP 2.3.3
 Java Script ES6
 Linux (CentOS 8)
 

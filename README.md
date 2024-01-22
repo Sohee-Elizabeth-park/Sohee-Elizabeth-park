@@ -4,9 +4,9 @@
 >Welcome To Sohee's GitHub 🙌🏻
 ---
 ### 🔧  ️Skill Set   ⚙️
-Java 11 / Spring 5.0.7 <br>
-Python 3.9.7 <br>
-Oracle 11g / MySQL 8.0.23 <br>
+Java 11 / Spring 5 <br>
+Python 3 <br>
+Oracle 11g / MySQL 8 <br>
 Java Script ES6 <br>
 Linux (CentOS 8)
 

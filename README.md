@@ -4,10 +4,10 @@
 >Welcome To Sohee's GitHub 🙌🏻
 ---
 ### 🔧  ️Skill Set   ⚙️
-Java 11 / Spring 5.0.7
-Python 3.9.7
-Oracle 11g / MySQL 8.0.23
-Java Script ES6
+Java 11 / Spring 5.0.7 <br>
+Python 3.9.7 <br>
+Oracle 11g / MySQL 8.0.23 <br>
+Java Script ES6 <br>
 Linux (CentOS 8)
 
 ![Sohee-Elizabeth-park's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sohee-Elizabeth-park&include_all_commits=true&show_icons=true&theme=radical)
